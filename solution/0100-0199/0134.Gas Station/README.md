@@ -101,7 +101,7 @@ class Solution:
 ```
 
 #### Java
-
+这里的java代码不能通过有一个测试用例不能通过
 ```java
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
